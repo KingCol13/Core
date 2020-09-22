@@ -344,6 +344,11 @@ local EnchantmentInformation = {
 			[ E_ITEM_IRON_AXE ]        = true,
 			[ E_ITEM_GOLD_AXE ]        = true,
 			[ E_ITEM_DIAMOND_AXE ]     = true,
+			[ E_ITEM_WOODEN_HOE ]      = true,
+			[ E_ITEM_STONE_HOE ]       = true,
+			[ E_ITEM_IRON_HOE ]        = true,
+			[ E_ITEM_GOLD_HOE ]        = true,
+			[ E_ITEM_DIAMOND_HOE ]     = true,
 			[ E_ITEM_SHEARS ]          = true,
 		},
 		CannotCombineWith = {
@@ -369,6 +374,11 @@ local EnchantmentInformation = {
 			[ E_ITEM_IRON_AXE ]        = true,
 			[ E_ITEM_GOLD_AXE ]        = true,
 			[ E_ITEM_DIAMOND_AXE ]     = true,
+			[ E_ITEM_WOODEN_HOE ]      = true,
+			[ E_ITEM_STONE_HOE ]       = true,
+			[ E_ITEM_IRON_HOE ]        = true,
+			[ E_ITEM_GOLD_HOE ]        = true,
+			[ E_ITEM_DIAMOND_HOE ]     = true,
 			[ E_ITEM_SHEARS ]          = true,
 		},
 		CannotCombineWith = {
@@ -461,6 +471,12 @@ local EnchantmentInformation = {
 			[ E_ITEM_IRON_AXE ]        = true,
 			[ E_ITEM_GOLD_AXE ]        = true,
 			[ E_ITEM_DIAMOND_AXE ]     = true,
+			[ E_ITEM_WOODEN_HOE ]      = true,
+			[ E_ITEM_STONE_HOE ]       = true,
+			[ E_ITEM_IRON_HOE ]        = true,
+			[ E_ITEM_GOLD_HOE ]        = true,
+			[ E_ITEM_DIAMOND_HOE ]     = true,
+			
 		},
 		CannotCombineWith = {
 			cEnchantments.enchSilkTouch
